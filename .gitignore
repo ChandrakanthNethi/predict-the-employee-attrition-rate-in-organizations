@@ -1,0 +1,8 @@
+#folder with the dataset
+dataset/
+
+#folder with practice jupyter notebooks
+practice_notebooks/
+
+#zip folder with dataset
+*.zip
