@@ -3,7 +3,13 @@
 
 
 ## Setup Instructions
+The following is a brief set of instructions on setting up a virtual environment with PyCaret
+- Create a virtual environment with Python version as 3.6.
+- Activate the virtual environment.
+- Excecute command `pip install pycaret` to install PyCaret.
+- Run the [notebook](https://github.com/ChandrakanthNethi/predict-the-employee-attrition-rate-in-organizations/blob/master/notebooks/train_and_predict.ipynb) to generate predictions.
 
+With this simple setup and PyCaret I ended up in top 4% in the hackathon.
 
 ## Resources
 ### Dataset
