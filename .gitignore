@@ -6,3 +6,9 @@ practice_notebooks/
 
 #zip folder with dataset
 *.zip
+
+#csv files
+*.csv
+
+#catboost folder
+notebooks/catboost_info
